@@ -1,1 +1,9 @@
-data/
+data/simpol/
+data/chrisdata/
+data/*.RData
+results/stadyum/*.rds
+results/stadyum/*.png
+**/*.bam
+**/*.bam.bai
+**/*.bw
+*.tmp
